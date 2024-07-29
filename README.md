@@ -26,7 +26,7 @@ PyDigUI is a simple graphical user interface (GUI) for the `dig` command line to
 
 3. **Run the application:**
     ```bash
-    python pydigui.py
+    python PyDiUI.py
     ```
 
 ## Usage
@@ -37,4 +37,4 @@ PyDigUI is a simple graphical user interface (GUI) for the `dig` command line to
 5. **Run Dig:** Click the "Run Dig" button to execute the query. The output will be displayed in the output text area.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
